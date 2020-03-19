@@ -13,6 +13,6 @@ public class InfoRecogApplication
 {
     public static void main( String[] args )
     {
-		SpringApplication.run(InfoRecogApplication.class, args);
+	SpringApplication.run(InfoRecogApplication.class, args);
     }
 }
